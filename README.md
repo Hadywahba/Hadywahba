@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hady Wahba</h1>
 
 <p align="center">
-  🎓 BSc in Mechatronics | ⚡ Front-End Developer | 🔌 Electrical Engineering Enthusiast
+  🎓 BSc in Mechatronics | ⚡ Front-End Developer | 🔌 Electrical Engineering 
 </p>
 
 ---
