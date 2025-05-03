@@ -34,17 +34,6 @@
 
 ---
 
-### 📝 Note App Screenshots:
-<p align="center">
-  <img src="https://via.placeholder.com/600x350.png?text=Note+App+Screenshot+1" alt="Note App Screenshot 1" />
-  <br />
-  <img src="https://via.placeholder.com/600x350.png?text=Note+App+Screenshot+2" alt="Note App Screenshot 2" />
-</p>
-
-> 📌 *Replace the above image URLs with actual screenshots from your project if available.*
-
----
-
 ### 📚 Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=tokyonight" />
