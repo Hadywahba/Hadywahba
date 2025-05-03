@@ -15,18 +15,39 @@
 
 ---
 
-### 🛠️ Skills & Tools:
+### 🧠 Languages I Use:
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- TypeScript
+
+---
+
+### 🛠️ Frameworks & Tools:
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/ES6-yellow?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+### 📝 Note App Screenshots:
+<p align="center">
+  <img src="https://via.placeholder.com/600x350.png?text=Note+App+Screenshot+1" alt="Note App Screenshot 1" />
+  <br />
+  <img src="https://via.placeholder.com/600x350.png?text=Note+App+Screenshot+2" alt="Note App Screenshot 2" />
+</p>
+
+> 📌 *Replace the above image URLs with actual screenshots from your project if available.*
+
+---
+
+### 📚 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -43,9 +64,3 @@
 <p>
   <a href="https://www.linkedin.com/in/hadywahba"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
 </p>
-
-
-<!---
-Hadywahba/Hadywahba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
