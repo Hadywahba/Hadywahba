@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on a **My Portfolio**
+- 🔭 I’m currently working on a **Exam-App**
 - 🌱 I’m always learning and growing with **React.js, Next.js & TypeScript**
 - 💬 Ask me about **front-end development, React, or how I balance engineering and code!**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hadywahba)
