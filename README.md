@@ -4,8 +4,6 @@
   🎓 BSc in Mechatronics | ⚡ Front-End Developer | 🔌 Electrical Engineering
 </p>
 
-
-
 ---
 
 ### 👨‍💻 About Me
@@ -48,21 +46,21 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadywahba&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadywahba&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hadywahba&show_icons=true&theme=tokyonight" alt="Hady Wahba GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadywahba&theme=tokyonight" alt="Hady Wahba GitHub Streak" />
 </p>
 
 ---
 
 ### 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=tokyonight" alt="Hady Wahba Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/hadywahba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/hadywahba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hadywahba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/hadywahba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
