@@ -4,6 +4,7 @@
   🎓 BSc in Mechatronics | ⚡ Front-End Developer | 🔌 Electrical Engineering
 </p>
 
+
 ---
 
 ### 👨‍💻 About Me
@@ -46,15 +47,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadywahba&show_icons=true&theme=tokyonight" alt="Hady Wahba GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadywahba&theme=tokyonight" alt="Hady Wahba GitHub Streak" />
+  <!-- بديل مضمون ظهور GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hadywahba&show_icons=true&theme=radical&hide_border=false" alt="Hady Wahba GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadywahba&theme=radical&hide_border=false" alt="Hady Wahba GitHub Streak" />
 </p>
 
 ---
 
 ### 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=tokyonight" alt="Hady Wahba Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=radical&hide_border=false" alt="Hady Wahba Top Languages" />
 </p>
 
 ---
