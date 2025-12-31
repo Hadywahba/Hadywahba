@@ -4,13 +4,12 @@
   🎓 BSc in Mechatronics | ⚡ Front-End Developer | 🔌 Electrical Engineering
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **Exam-App**
 - 🌱 Always learning **React.js, Next.js & TypeScript**
-- 💬 Ask me about **front-end development, React, or balancing engineering & code**
+- 💬 Ask me about **Front-End Development, React, or balancing Engineering & Code**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hadywahba)
 - ⚡ Fun fact: I probably spend more time customizing VS Code than writing code 😄
 
@@ -34,35 +33,44 @@
 
 ---
 
-### 🛠️ Frameworks & Tools
+### 🛠️ Frameworks, Tools & Practices
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth.js-333333?style=for-the-badge&logo=nextauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-F05138?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6E6E6E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- بديل مضمون ظهور GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hadywahba&show_icons=true&theme=radical&hide_border=false" alt="Hady Wahba GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadywahba&theme=radical&hide_border=false" alt="Hady Wahba GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hadywahba&show_icons=true&theme=radical" alt="Hady Wahba GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadywahba&theme=radical" alt="Hady Wahba GitHub Streak" />
 </p>
 
 ---
 
 ### 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=radical&hide_border=false" alt="Hady Wahba Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadywahba&layout=compact&theme=radical" alt="Hady Wahba Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/hadywahba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/hadywahba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/hadywahba">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hadywahba">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
