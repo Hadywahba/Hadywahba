@@ -4,9 +4,7 @@
   🎓 BSc in Mechatronics | ⚡ Front-End Developer | 🔌 Electrical Engineering
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="120" alt="coding GIF" />
-</p>
+
 
 ---
 
