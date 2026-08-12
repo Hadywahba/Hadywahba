@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Rose-App**
+- 🔭 Currently working on **Cozzy**
 - 🌱 Always learning **React.js, Next.js & TypeScript**
 - 💬 Ask me about **Front-End Development, React, or balancing Engineering & Code**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hadywahba)
